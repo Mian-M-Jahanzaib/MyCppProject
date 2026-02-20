@@ -1,4 +1,3 @@
-Gemini said
 Bank Management System 🏦
 A robust, console-based Bank and ATM Management System built in C++. This project demonstrates core Object-Oriented Programming (OOP) concepts, secure credential validation, and file-based data persistence. It serves as a comprehensive simulation of real-world banking and ATM operations.
 
@@ -58,7 +57,7 @@ Installation & Execution
 Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/MyCppProject.git
+git clone https://github.com/Mian-M-Jahanzaib/MyCppProject.git
 cd MyCppProject
 Compile the code:
 
@@ -90,6 +89,8 @@ Close: Safely exits the program and saves all current data to accounts.txt.
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
+
+Author : Mian M Jahanzaib
 
 📝 License
 This project is open-source and available under the MIT License.
